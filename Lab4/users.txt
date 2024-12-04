@@ -1,0 +1,2 @@
+{'user_id': '1', 'name': 'Дима', 'email': 'd@ya.ru', 'age': '23'}
+{'user_id': '3', 'name': 'Алиса', 'email': 'a@ya.ru', 'age': '20'}
